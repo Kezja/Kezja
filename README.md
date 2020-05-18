@@ -1,0 +1,2 @@
+# Kezja
+część kodu
